@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>光之筆記｜攝影作品 Wiki</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600&family=Noto+Sans+TC:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="top">
+    <a href="#/" class="brand">
+      <span class="brand-title" id="site-title">光之筆記</span>
+      <span class="brand-sub" id="site-sub">由 LLM 維護的攝影作品 Wiki</span>
+    </a>
+    <nav>
+      <a href="#/">作品</a>
+      <a href="#/index">索引</a>
+      <a href="#/about">關於</a>
+    </nav>
+  </header>
+
+  <main id="app"><p class="loading">載入中…</p></main>
+
+  <footer class="foot">
+    內容由 LLM 依照 <code>CLAUDE.md</code> 從 <code>raw/</code> 整理成 <code>wiki/</code>，再由 <code>tools/build.py</code> 產生。
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

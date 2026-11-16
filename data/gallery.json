@@ -1,0 +1,191 @@
+{
+  "site": {
+    "title": "光之筆記",
+    "subtitle": "由 LLM 維護的攝影作品 Wiki"
+  },
+  "about": "這是一個由 LLM 持續整理的攝影作品集。每張照片都是一個 wiki 頁面，連到它的地點、器材、主題與系列。\n\n## 目前的風格觀察\n- 目前作品都是**花卉**，色彩飽和、偏暖色。\n- 常用**淺景深**與**前景模糊**讓主體跳出來（見 [[shallow-depth]]、[[foreground-bokeh]]），也嘗試了 [[backlight]]。\n- 喜歡讓畫面有好幾塊明確的顏色（見 [[color-layers]]）。\n- 器材：[[nikon-d5300]]。\n\n## 系列\n- [[winter-flowers-2024]]\n\n## 統計\n- 照片 5 張、外拍 1 次（2024-12-07）",
+  "photos": [
+    "2024-12-bougainvillea-backlit",
+    "2024-12-pink-flower-sea",
+    "2024-12-bougainvillea-peek-closer",
+    "2024-12-bougainvillea-peek",
+    "2024-12-chrysanthemum-poinsettia"
+  ],
+  "pages": {
+    "2024-12-bougainvillea-backlit": {
+      "type": "photo",
+      "title": "逆光的橘色九重葛",
+      "slug": "2024-12-bougainvillea-backlit",
+      "image": "raw/photos/2024-12-bougainvillea-backlit.jpg",
+      "original": "DSC_0188.jpg",
+      "date": "2024-12-07",
+      "place": "",
+      "series": [
+        "winter-flowers-2024"
+      ],
+      "themes": [
+        "backlight",
+        "shallow-depth"
+      ],
+      "gear": [
+        "nikon-d5300"
+      ],
+      "featured": true,
+      "sources": [
+        "raw/photos/2024-12-bougainvillea-backlit.jpg"
+      ],
+      "body": "陽光從後方穿過橘色與粉色的九重葛苞片，葉脈清楚透出，背景化成藍白色的光斑。\n\n## 畫面\n- 逆光讓薄薄的苞片像發光一樣（見 [[backlight]]）。\n- 背景的天空與花叢完全失焦，冷色背景襯托暖色主體。\n\n## 技術筆記\n- 這個檔案**沒有 EXIF**。日期為 2024-12-07（推測：檔名序號接近同日其他照片）。\n\n## 相關\n- 系列：[[winter-flowers-2024]]\n- 同樣拍九重葛：[[2024-12-bougainvillea-peek]]",
+      "web": "data/img/2024-12-bougainvillea-backlit.jpg"
+    },
+    "2024-12-bougainvillea-peek-closer": {
+      "type": "photo",
+      "title": "穿過花叢的黃色九重葛（二）",
+      "slug": "2024-12-bougainvillea-peek-closer",
+      "image": "raw/photos/2024-12-bougainvillea-peek-closer.jpg",
+      "original": "DSC_0158.jpg",
+      "date": "2024-12-07",
+      "place": "",
+      "series": [
+        "winter-flowers-2024"
+      ],
+      "themes": [
+        "foreground-bokeh",
+        "color-layers"
+      ],
+      "gear": [
+        "nikon-d5300"
+      ],
+      "featured": false,
+      "sources": [
+        "raw/photos/2024-12-bougainvillea-peek-closer.jpg"
+      ],
+      "body": "和上一張同一個位置，主體的黃色九重葛更清楚、更居中，紫花圍繞得更完整。\n\n## 畫面\n- 與 [[2024-12-bougainvillea-peek]] 相比，前景模糊佔比較少，主體更突出。\n- 黃、紫、深綠三色分得很清楚。\n\n## 技術筆記\n- 這個檔案**沒有 EXIF**（推測是經過軟體匯出）。日期為 2024-12-07（推測：與 DSC_0156 連號、構圖相同）。\n\n## 相關\n- 系列：[[winter-flowers-2024]]\n- 主題：[[foreground-bokeh]]",
+      "web": "data/img/2024-12-bougainvillea-peek-closer.jpg"
+    },
+    "2024-12-bougainvillea-peek": {
+      "type": "photo",
+      "title": "穿過花叢的黃色九重葛",
+      "slug": "2024-12-bougainvillea-peek",
+      "image": "raw/photos/2024-12-bougainvillea-peek.jpg",
+      "original": "DSC_0156.JPG",
+      "date": "2024-12-07",
+      "place": "",
+      "series": [
+        "winter-flowers-2024"
+      ],
+      "themes": [
+        "foreground-bokeh",
+        "color-layers"
+      ],
+      "gear": [
+        "nikon-d5300"
+      ],
+      "exif": {
+        "focal": "140mm",
+        "aperture": "f/9",
+        "shutter": "1/200s",
+        "iso": "200"
+      },
+      "featured": false,
+      "sources": [
+        "raw/photos/2024-12-bougainvillea-peek.jpg"
+      ],
+      "body": "透過前景失焦的橘黃花叢，看見一小簇被陽光照亮的黃色九重葛，四周是紫色的花與深色背景。\n\n## 畫面\n- 前景大面積的橘黃色模糊，像一層濾鏡框住主體（見 [[foreground-bokeh]]）。\n- 主體在畫面右下三分之一，黃色與周圍紫色形成對比。\n\n## 技術筆記\n- 140mm 長焦端，f/9、1/200s、ISO 200（EXIF，拍攝時間 10:48）。\n- 長焦壓縮讓前景模糊更明顯。\n\n## 相關\n- 同一構圖的另一張：[[2024-12-bougainvillea-peek-closer]]\n- 系列：[[winter-flowers-2024]]",
+      "web": "data/img/2024-12-bougainvillea-peek.jpg"
+    },
+    "2024-12-chrysanthemum-poinsettia": {
+      "type": "photo",
+      "title": "菊花與聖誕紅",
+      "slug": "2024-12-chrysanthemum-poinsettia",
+      "image": "raw/photos/2024-12-chrysanthemum-poinsettia.jpg",
+      "original": "DSC_0174.JPG",
+      "date": "2024-12-07",
+      "place": "",
+      "series": [
+        "winter-flowers-2024"
+      ],
+      "themes": [
+        "color-layers"
+      ],
+      "gear": [
+        "nikon-d5300"
+      ],
+      "exif": {
+        "focal": "26mm",
+        "aperture": "f/25",
+        "shutter": "1/40s",
+        "iso": "200"
+      },
+      "featured": false,
+      "sources": [
+        "raw/photos/2024-12-chrysanthemum-poinsettia.jpg"
+      ],
+      "body": "前景是一大片粉紫色與磚紅色的菊花，後方一排排盆栽聖誕紅，整個畫面都是花。\n\n## 畫面\n- 廣角、近距離，從前景到背景都清楚。\n- 顏色分區明確：左下粉紫、右下磚紅、上方紅與黃綠（見 [[color-layers]]）。\n\n## 技術筆記\n- 26mm、f/25、1/40s、ISO 200（EXIF，拍攝時間 10:53）。\n- 光圈縮到 f/25 讓全景清晰，和其他幾張淺景深的作法相反。\n\n## 相關\n- 系列：[[winter-flowers-2024]]\n- 對照：[[2024-12-pink-flower-sea]] 同樣是花海，但用淺景深呈現。",
+      "web": "data/img/2024-12-chrysanthemum-poinsettia.jpg"
+    },
+    "2024-12-pink-flower-sea": {
+      "type": "photo",
+      "title": "粉色花海",
+      "slug": "2024-12-pink-flower-sea",
+      "image": "raw/photos/2024-12-pink-flower-sea.jpg",
+      "original": "DSC_0126.JPG",
+      "date": "2024-12-07",
+      "place": "",
+      "series": [
+        "winter-flowers-2024"
+      ],
+      "themes": [
+        "shallow-depth",
+        "color-layers"
+      ],
+      "gear": [
+        "nikon-d5300"
+      ],
+      "featured": true,
+      "sources": [
+        "raw/photos/2024-12-pink-flower-sea.jpg"
+      ],
+      "body": "一整片粉紫色的小花鋪滿前景，後方的黃色與奶油色花叢化成柔和的色帶。\n\n## 畫面\n- 低角度貼近花叢，前景的花朵清楚、往後逐漸失焦。\n- 色彩由下往上分成三層：粉紫 → 奶油白 → 橘黃，形成自然的漸層（見 [[color-layers]]）。\n- 花心的橘褐色在粉色花瓣中形成重複的點狀節奏。\n- 光線明亮、偏側上方，花瓣有透光感。\n\n## 技術筆記\n- 這張是透過聊天貼上的版本，**沒有 EXIF**，相機參數未知。\n- 拍攝日期為 2024-12-07（推測：檔名序號 DSC_0126 接近同日其他照片）。\n- 從畫面判斷是淺景深、靠近主體拍攝（見 [[shallow-depth]]）。\n\n## 相關\n- 系列：[[winter-flowers-2024]]\n- 同場拍攝：[[2024-12-chrysanthemum-poinsettia]]（同樣是大片花叢）",
+      "web": "data/img/2024-12-pink-flower-sea.jpg"
+    },
+    "winter-flowers-2024": {
+      "type": "series",
+      "title": "2024 冬日賞花",
+      "slug": "winter-flowers-2024",
+      "cover": "2024-12-pink-flower-sea",
+      "period": "2024-12-07",
+      "body": "2024 年 12 月 7 日上午的一次花卉外拍，拍了九重葛、菊花和聖誕紅。地點待補。\n\n## 照片\n- [[2024-12-pink-flower-sea]] — 粉色花海，淺景深\n- [[2024-12-bougainvillea-peek]] — 穿過前景花叢看九重葛\n- [[2024-12-bougainvillea-peek-closer]] — 同構圖的第二張\n- [[2024-12-chrysanthemum-poinsettia]] — 菊花與聖誕紅，全景清晰\n- [[2024-12-bougainvillea-backlit]] — 逆光的九重葛\n\n## 觀察\n同一天裡試了好幾種拍法：淺景深、前景模糊、逆光、小光圈全景清晰。"
+    },
+    "backlight": {
+      "type": "theme",
+      "title": "逆光",
+      "slug": "backlight",
+      "body": "讓光從主體後方照過來，花瓣、苞片這類薄的東西會透光、顯出紋理。\n\n## 代表作品\n- [[2024-12-bougainvillea-backlit]]\n\n## 相關主題\n[[shallow-depth]]"
+    },
+    "color-layers": {
+      "type": "theme",
+      "title": "色彩分層",
+      "slug": "color-layers",
+      "body": "畫面裡有幾塊明確的顏色區域，由前到後或由左到右排列。\n\n## 代表作品\n- [[2024-12-pink-flower-sea]] — 粉紫 → 奶油白 → 橘黃\n- [[2024-12-chrysanthemum-poinsettia]] — 粉紫、磚紅、紅\n- [[2024-12-bougainvillea-peek]] — 橘黃前景、紫花、黃色主體\n\n## 相關主題\n[[foreground-bokeh]]"
+    },
+    "foreground-bokeh": {
+      "type": "theme",
+      "title": "前景模糊",
+      "slug": "foreground-bokeh",
+      "body": "隔著靠近鏡頭的花葉拍攝，讓前景變成一層模糊的色彩，像從縫隙中偷看主體。\n\n## 代表作品\n- [[2024-12-bougainvillea-peek]]\n- [[2024-12-bougainvillea-peek-closer]]\n\n## 相關主題\n[[shallow-depth]]、[[color-layers]]"
+    },
+    "shallow-depth": {
+      "type": "theme",
+      "title": "淺景深",
+      "slug": "shallow-depth",
+      "body": "只讓主體清楚，前後景都化成柔和的色塊。\n\n## 代表作品\n- [[2024-12-pink-flower-sea]]\n- [[2024-12-bougainvillea-backlit]]\n\n## 相關主題\n[[foreground-bokeh]]、[[backlight]]"
+    },
+    "nikon-d5300": {
+      "type": "gear",
+      "title": "Nikon D5300",
+      "slug": "nikon-d5300",
+      "kind": "camera",
+      "body": "依 EXIF 判斷，目前作品都用這台拍攝。鏡頭型號 EXIF 沒有記錄；用過的焦距有 26mm 與 140mm（推測是一支變焦鏡，型號待補）。\n\n## 代表作\n- [[2024-12-bougainvillea-peek]]（140mm）\n- [[2024-12-chrysanthemum-poinsettia]]（26mm）\n- 系列：[[winter-flowers-2024]]"
+    }
+  }
+}
